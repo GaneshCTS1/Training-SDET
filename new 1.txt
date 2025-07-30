@@ -1,0 +1,9 @@
+CSS:
+inline -> after <html>
+internal -> after <head>
+External -> separate styles.css file under head
+<link rel="stylesheet" href="./styles.css">
+selector types:
+	Element selector, Class Selector, 
+
+selector{property:value}
